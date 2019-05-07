@@ -30,6 +30,8 @@ Facebook research - https://github.com/facebookresearch
 
 Rule based - https://code.fb.com/security/fighting-spam-with-haskell/
 
+Self supervision - https://ai.facebook.com/blog/advances-in-content-understanding-self-supervision-to-protect-people/
+
 ## Graphs
 
 Python - https://github.com/vtraag/4TU-CSS/blob/master/presentations/traag/notebook/Network.ipynb
