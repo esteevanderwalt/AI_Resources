@@ -8,6 +8,10 @@ ICLR conference - https://paperswithcode.com/conference/iclr-2019-5
 
 Graph embedding - https://www.sysml.cc/doc/2019/71.pdf
 
+## Talks
+
+Yann LeCun (graph embedding) - https://www.youtube.com/watch?v=UGPT64wo7lU
+
 ## Resources
 
 Pytorch - https://pytorch.org
