@@ -8,6 +8,10 @@ ICLR conference - https://paperswithcode.com/conference/iclr-2019-5
 
 Graph embedding - https://www.sysml.cc/doc/2019/71.pdf
 
+CNNs - https://cs231n.github.io/convolutional-networks/
+
+Interpretability - https://distill.pub/2018/building-blocks/
+
 ML in production - https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86
 
 ## Talks
@@ -22,6 +26,16 @@ Pytorch/BigGraph - https://github.com/facebookresearch/PyTorch-BigGraph?fbclid=I
 
 Facebook research - https://github.com/facebookresearch
 
+## Cyber security 
+
+Rule based - https://code.fb.com/security/fighting-spam-with-haskell/
+
 ## Graphs
 
-https://github.com/vtraag/4TU-CSS/blob/master/presentations/traag/notebook/Network.ipynb
+Python - https://github.com/vtraag/4TU-CSS/blob/master/presentations/traag/notebook/Network.ipynb
+
+Deep learning - https://skymind.ai/wiki/graph-analysis
+
+## Data
+
+Cassandra compaction - https://github.com/scylladb/scylla/wiki/SSTable-compaction-and-compaction-strategies
