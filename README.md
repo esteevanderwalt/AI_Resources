@@ -1,6 +1,6 @@
 # AI Resources
 
-This is a page to keep track of good sites with resources either about tools used in AI, conferences or papers on various topics
+This is a page to keep track of good sites with resources either about tools used in AI, conferences or papers on various topics in what I am interested in.
 
 ## Papers
 
