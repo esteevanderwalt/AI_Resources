@@ -8,6 +8,8 @@ ICLR conference - https://paperswithcode.com/conference/iclr-2019-5
 
 Graph embedding - https://www.sysml.cc/doc/2019/71.pdf
 
+ML in production - https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86
+
 ## Talks
 
 Yann LeCun (graph embedding) - https://www.youtube.com/watch?v=UGPT64wo7lU
