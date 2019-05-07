@@ -21,3 +21,7 @@ Pytorch - https://pytorch.org
 Pytorch/BigGraph - https://github.com/facebookresearch/PyTorch-BigGraph?fbclid=IwAR2ybzOgtmpoKCbU9wg9vbPrvLo-TrHq9rqdzyXJj4qKKQtsUGuJdRZPi14
 
 Facebook research - https://github.com/facebookresearch
+
+## Graphs
+
+https://github.com/vtraag/4TU-CSS/blob/master/presentations/traag/notebook/Network.ipynb
