@@ -38,6 +38,19 @@ Python - https://github.com/vtraag/4TU-CSS/blob/master/presentations/traag/noteb
 
 Deep learning - https://skymind.ai/wiki/graph-analysis
 
+## Visualization
+
+Medium blogs - https://medium.com/multiple-views-visualization-research-explained
+
+Word clouds - cluster by similarity and word count makes more sense...
+https://medium.com/multiple-views-visualization-research-explained/improving-word-clouds-9d4a04b0722b
+
+Swarm plots - https://towardsdatascience.com/3-awesome-visualization-techniques-for-every-dataset-9737eecacbe8
+
+## Interesting use cases
+
+Face detection with python - https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
+
 ## Data
 
 Cassandra compaction - https://github.com/scylladb/scylla/wiki/SSTable-compaction-and-compaction-strategies
