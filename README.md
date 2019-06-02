@@ -38,6 +38,10 @@ Python - https://github.com/vtraag/4TU-CSS/blob/master/presentations/traag/noteb
 
 Deep learning - https://skymind.ai/wiki/graph-analysis
 
+Graph Embedding resources
+- https://github.com/benedekrozemberczki/awesome-graph-embedding
+- https://github.com/daicoolb/Awesome-Graph-Embedding
+
 ## Visualization
 
 Medium blogs - https://medium.com/multiple-views-visualization-research-explained
