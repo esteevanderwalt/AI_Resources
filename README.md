@@ -26,6 +26,8 @@ Pytorch/BigGraph - https://github.com/facebookresearch/PyTorch-BigGraph?fbclid=I
 
 Facebook research - https://github.com/facebookresearch
 
+LSTMs - https://skymind.ai/wiki/lstm
+
 ## Cyber security 
 
 Rule based - https://code.fb.com/security/fighting-spam-with-haskell/
