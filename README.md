@@ -44,6 +44,10 @@ Graph Embedding resources
 - https://github.com/benedekrozemberczki/awesome-graph-embedding
 - https://github.com/daicoolb/Awesome-Graph-Embedding
 
+## Deep learning
+
+https://github.com/rasbt/deeplearning-models?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190617+ai+nl&mkt_tok=eyJpIjoiTjJZMk1Ea3hNbVU0WkRVNCIsInQiOiJ6N2RPc01BVllhNzhmUmZPMlJmNGpqVkNPZ0o2MUhmK3hSTkdPV2RITjJuV1VmZElvXC9jZWVwRmM3KzFVcDVcL1pJZEpRVSs3QnZQZE1XYkt5d2crcDdcLzI4MTY2QloxNmZxeGRGeXNVM041UXF2TWpPbFlHK3FZbUtMVnVobUN3RiJ9
+
 ## Visualization
 
 Medium blogs - https://medium.com/multiple-views-visualization-research-explained
