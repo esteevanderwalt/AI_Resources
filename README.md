@@ -46,7 +46,7 @@ Graph Embedding resources
 
 ## Deep learning
 
-https://github.com/rasbt/deeplearning-models?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190617+ai+nl&mkt_tok=eyJpIjoiTjJZMk1Ea3hNbVU0WkRVNCIsInQiOiJ6N2RPc01BVllhNzhmUmZPMlJmNGpqVkNPZ0o2MUhmK3hSTkdPV2RITjJuV1VmZElvXC9jZWVwRmM3KzFVcDVcL1pJZEpRVSs3QnZQZE1XYkt5d2crcDdcLzI4MTY2QloxNmZxeGRGeXNVM041UXF2TWpPbFlHK3FZbUtMVnVobUN3RiJ9
+Good explanation of concepts with notebooks - https://github.com/rasbt/deeplearning-models
 
 ## Visualization
 
