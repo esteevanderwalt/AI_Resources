@@ -39,7 +39,8 @@ Self supervision - https://ai.facebook.com/blog/advances-in-content-understandin
 Python - https://github.com/vtraag/4TU-CSS/blob/master/presentations/traag/notebook/Network.ipynb
 
 Different types of methods used 
-https://towardsdatascience.com/overview-of-deep-learning-on-graph-embeddings-4305c10ad4a4
+- https://towardsdatascience.com/overview-of-deep-learning-on-graph-embeddings-4305c10ad4a4
+- https://medium.com/octavian-ai/how-to-get-started-with-machine-learning-on-graphs-7f0795c83763
 
 Deep learning - https://skymind.ai/wiki/graph-analysis
 Geometric deep learning - https://medium.com/@flawnsontong1/what-is-geometric-deep-learning-b2adb662d91d
@@ -77,9 +78,9 @@ Swarm plots - https://towardsdatascience.com/3-awesome-visualization-techniques-
 
 ## Interesting use cases
 
-Face detection with python - https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
-Poker player - https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/
-AlphaStar - https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/
+- Face detection with python - https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
+- Poker player - https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/
+- AlphaStar - https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/
 
 ## Python
 
