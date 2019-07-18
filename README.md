@@ -38,11 +38,24 @@ Self supervision - https://ai.facebook.com/blog/advances-in-content-understandin
 
 Python - https://github.com/vtraag/4TU-CSS/blob/master/presentations/traag/notebook/Network.ipynb
 
+Different types of methods used 
+https://towardsdatascience.com/overview-of-deep-learning-on-graph-embeddings-4305c10ad4a4
+
 Deep learning - https://skymind.ai/wiki/graph-analysis
+Geometric deep learning - https://medium.com/@flawnsontong1/what-is-geometric-deep-learning-b2adb662d91d
 
 Graph Embedding resources
 - https://github.com/benedekrozemberczki/awesome-graph-embedding
 - https://github.com/daicoolb/Awesome-Graph-Embedding
+- through attention - https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step
+- semi supervised graph classification - https://github.com/benedekrozemberczki/SEAL-CI
+- skipgram - https://medium.com/@_init_/an-illustrated-explanation-of-using-skipgram-to-encode-the-structure-of-a-graph-deepwalk-6220e304d71b
+- word2vec - http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+
+GCNN
+https://towardsdatascience.com/graph-convolutional-networks-for-geometric-deep-learning-1faf17dee008
+
+Jupyter with graph frames - https://towardsdatascience.com/graphframes-in-jupyter-a-practical-guide-9b3b346cebc5
 
 ## Deep learning
 
@@ -60,6 +73,10 @@ Swarm plots - https://towardsdatascience.com/3-awesome-visualization-techniques-
 ## Interesting use cases
 
 Face detection with python - https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
+
+## Python
+
+Numpy - https://jalammar.github.io/visual-numpy/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190710+data+nl&mkt_tok=eyJpIjoiWldaaU56bGpZamc0TmprMCIsInQiOiJJSURidEVBaHRTYU5FNjRmVFNjVHhKMllkYTMyd3NScHZIM0J6bnpLeCtudjhSOUt3bEhwWEpia0VwS0RhOVhBTjN1eEdEZk53MVBETnQ5ZUUwZFJVYVBkQUJmdzRlSjBXbEhzeXo5R3VMNHEwdThGRmxmOWVLSXlGMzVYSDZBRSJ9
 
 ## Data
 
