@@ -58,6 +58,9 @@ https://towardsdatascience.com/graph-convolutional-networks-for-geometric-deep-l
 
 Jupyter with graph frames - https://towardsdatascience.com/graphframes-in-jupyter-a-practical-guide-9b3b346cebc5
 
+Data
+https://github.com/shiruipan/graph_datasets
+
 ## Deep learning
 
 Good explanation of concepts with notebooks - https://github.com/rasbt/deeplearning-models
