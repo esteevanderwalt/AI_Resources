@@ -61,6 +61,11 @@ Jupyter with graph frames - https://towardsdatascience.com/graphframes-in-jupyte
 
 Good explanation of concepts with notebooks - https://github.com/rasbt/deeplearning-models
 
+## Interpretation
+
+https://christophm.github.io/interpretable-ml-book/
+Tensorboard - https://www.tensorflow.org/tensorboard/r2/what_if_tool
+
 ## Visualization
 
 Medium blogs - https://medium.com/multiple-views-visualization-research-explained
@@ -73,6 +78,8 @@ Swarm plots - https://towardsdatascience.com/3-awesome-visualization-techniques-
 ## Interesting use cases
 
 Face detection with python - https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
+Poker player - https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/
+AlphaStar - https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/
 
 ## Python
 
