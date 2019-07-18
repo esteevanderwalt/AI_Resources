@@ -83,7 +83,7 @@ AlphaStar - https://deepmind.com/blog/alphastar-mastering-real-time-strategy-gam
 
 ## Python
 
-Numpy - https://jalammar.github.io/visual-numpy/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190710+data+nl&mkt_tok=eyJpIjoiWldaaU56bGpZamc0TmprMCIsInQiOiJJSURidEVBaHRTYU5FNjRmVFNjVHhKMllkYTMyd3NScHZIM0J6bnpLeCtudjhSOUt3bEhwWEpia0VwS0RhOVhBTjN1eEdEZk53MVBETnQ5ZUUwZFJVYVBkQUJmdzRlSjBXbEhzeXo5R3VMNHEwdThGRmxmOWVLSXlGMzVYSDZBRSJ9
+Numpy/pandas/nlp - https://jalammar.github.io/
 
 ## Data
 
