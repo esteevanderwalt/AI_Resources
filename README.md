@@ -65,6 +65,9 @@ https://github.com/shiruipan/graph_datasets
 
 Good explanation of concepts with notebooks - https://github.com/rasbt/deeplearning-models
 
+## NLP
+pytorch transformers - https://github.com/huggingface/pytorch-transformers
+
 ## Interpretation
 
 https://christophm.github.io/interpretable-ml-book/
