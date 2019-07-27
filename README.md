@@ -95,3 +95,6 @@ Numpy/pandas/nlp - https://jalammar.github.io/
 ## Data
 
 Cassandra compaction - https://github.com/scylladb/scylla/wiki/SSTable-compaction-and-compaction-strategies
+Cassandra resources - https://anant.github.io/awesome-cassandra/
+Cassandra read write process - https://www.scnsoft.com/blog/cassandra-performance
+
